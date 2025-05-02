@@ -52,6 +52,8 @@ Compute has park mark.
 
 Compute has park cross.
 
+Compute has park thread.
+
 Compute is did.
 
 Compute has major.
