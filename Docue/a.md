@@ -48,6 +48,10 @@ Compute has park kind arch marry.
 
 Compute has park kind arch land.
 
+Compute has park mark.
+
+Compute has park cross.
+
 Compute is did.
 
 Compute has major.
